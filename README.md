@@ -1,4 +1,4 @@
-<a href="https://chimcatz.github.io/cz-portfolio-site/">
+<a href="https://czcatz.site/">
   <img src="banner.png" width="100%" alt="cz.catzzz. Clean. Analyze. Visualize. Automate. CZ Catalan, data analyst: Python, SQL, dashboards." />
 </a>
 
@@ -8,8 +8,8 @@ I'm a data analyst with an engineering background and a soft spot for messy
 data. I clean it, report on it, build dashboards from it, and automate the
 repetitive parts with Python and SQL. Based in Cagayan de Oro, Philippines.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge)](https://chimcatz.github.io/cz-portfolio-site/)
-[![Resume](https://img.shields.io/badge/Resume-2e1a5c?style=for-the-badge)](https://chimcatz.github.io/cz-portfolio-site/resume/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge)](https://czcatz.site/)
+[![Resume](https://img.shields.io/badge/Resume-2e1a5c?style=for-the-badge)](https://czcatz.site/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e1a5c?style=for-the-badge)](https://www.linkedin.com/in/chimzoecatalan/)
 [![Email](https://img.shields.io/badge/Email-2e1a5c?style=for-the-badge)](mailto:catalanchimzoe.business@gmail.com)
 
@@ -27,23 +27,23 @@ repetitive parts with Python and SQL. Based in Cagayan de Oro, Philippines.
 <table>
   <tr>
     <td width="50%">
-      <a href="https://chimcatz.github.io/cz-portfolio-site/projects/">
-        <img src="https://raw.githubusercontent.com/ChimCatz/cz-portfolio-site/main/.github/assets/projects.jpg" alt="Projects page of the portfolio: a featured case study with an illustration and headline numbers" />
+      <a href="https://czcatz.site/projects/">
+        <img src="projects.jpg" alt="Projects page of the portfolio: a featured case study with an illustration and headline numbers" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://chimcatz.github.io/cz-portfolio-site/projects/search-and-filter-engine/">
-        <img src="https://raw.githubusercontent.com/ChimCatz/cz-portfolio-site/main/.github/assets/search-demo.jpg" alt="Search demo: lists of companies and job titles, filter chips, and a results table" />
+      <a href="https://czcatz.site/projects/search-and-filter-engine/">
+        <img src="search-demo.jpg" alt="Search demo: lists of companies and job titles, filter chips, and a results table" />
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://chimcatz.github.io/cz-portfolio-site/projects/">Projects</a></b><br />
+      <b><a href="https://czcatz.site/projects/">Projects</a></b><br />
       Case studies of the tools and dashboards, each with the problem, the approach, and the results.
     </td>
     <td valign="top">
-      <b><a href="https://chimcatz.github.io/cz-portfolio-site/projects/search-and-filter-engine/">A search engine you can try</a></b><br />
+      <b><a href="https://czcatz.site/projects/search-and-filter-engine/">A search engine you can try</a></b><br />
       Search 50,000 made-up lead records in your browser, in about a millisecond.
     </td>
   </tr>
@@ -51,10 +51,9 @@ repetitive parts with Python and SQL. Based in Cagayan de Oro, Philippines.
 
 More to open:
 
-- [Live dashboards](https://chimcatz.github.io/cz-portfolio-site/projects/database-management-dashboard/), embedded and interactive, on sample data
-- [Too Many Applicants, Too Few Jobs, and How to Win](https://chimcatz.github.io/cz-portfolio-site/insights/too-many-applicants-too-few-jobs-and-how-to-win/), a data story built from open government data
-- [Data studies](https://chimcatz.github.io/cz-portfolio-site/data-studies/) on Netflix genres, Pokémon stats, and lead conversion
-- [The code behind the site](https://github.com/ChimCatz/cz-portfolio-site), an Astro site with three dependencies
+- [Live dashboards](https://czcatz.site/projects/database-management-dashboard/), embedded and interactive, on sample data
+- [Too Many Applicants, Too Few Jobs, and How to Win](https://czcatz.site/insights/too-many-applicants-too-few-jobs-and-how-to-win/), a data story built from open government data
+- [Data studies](https://czcatz.site/data-studies/) on Netflix genres, Pokémon stats, and lead conversion
 
 ## Tool stack
 
